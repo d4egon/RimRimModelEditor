@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Category -->
+  <KeyBindingCategoryDef>
+    <defName>RimRimModelEditor_Category</defName>
+    <label>RimRim Model Editor</label>
+    <description>Key bindings for the RimRim Model Editor.</description>
+  </KeyBindingCategoryDef>
+
+  <!-- 17 bindings -->
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_Undo</defName>
+    <label>Undo</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>Z</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_Redo</defName>
+    <label>Redo</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>Y</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_Save</defName>
+    <label>Save preset</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>S</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_Export</defName>
+    <label>Export XML</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>E</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_BatchExport</defName>
+    <label>Batch export</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>B</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_Screenshot</defName>
+    <label>Take screenshot</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>F12</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_HotReload</defName>
+    <label>Hot-reload</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>F5</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_ToggleCollision</defName>
+    <label>Toggle collision overlay</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>C</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_TogglePlacement</defName>
+    <label>Toggle placement overlay</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>P</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_NextFrame</defName>
+    <label>Next animation frame</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>RightArrow</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_PrevFrame</defName>
+    <label>Previous animation frame</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>LeftArrow</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_ZoomIn</defName>
+    <label>Zoom in preview</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>Equals</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_ZoomOut</defName>
+    <label>Zoom out preview</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>Minus</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_ResetView</defName>
+    <label>Reset preview view</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>Home</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_AddLayer</defName>
+    <label>Add layer</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>L</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_DeleteLayer</defName>
+    <label>Delete layer</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>Delete</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+  <KeyBindingDef>
+    <defName>RimRimModelEditor_Share</defName>
+    <label>Share (zip &amp; package)</label>
+    <category>RimRimModelEditor_Category</category>
+    <defaultKeyCodeA>F8</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+</Defs>

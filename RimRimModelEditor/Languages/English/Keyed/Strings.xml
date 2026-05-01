@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Window -->
+  <RimRim_WindowTitle>RimRim Model Editor</RimRim_WindowTitle>
+  <RimRim_NoDefSelected>No def selected</RimRim_NoDefSelected>
+  <RimRim_SelectDef>Select a ThingDef to begin editing</RimRim_SelectDef>
+
+  <!-- Tabs -->
+  <RimRim_Tab_Layers>Layers</RimRim_Tab_Layers>
+  <RimRim_Tab_Animation>Animation</RimRim_Tab_Animation>
+  <RimRim_Tab_Collision>Collision</RimRim_Tab_Collision>
+  <RimRim_Tab_Presets>Presets</RimRim_Tab_Presets>
+  <RimRim_Tab_History>History</RimRim_Tab_History>
+
+  <!-- Toolbar -->
+  <RimRim_Toolbar_Undo>Undo</RimRim_Toolbar_Undo>
+  <RimRim_Toolbar_Redo>Redo</RimRim_Toolbar_Redo>
+  <RimRim_Toolbar_Save>Save Preset</RimRim_Toolbar_Save>
+  <RimRim_Toolbar_Export>Export XML</RimRim_Toolbar_Export>
+  <RimRim_Toolbar_BatchExport>Batch Export</RimRim_Toolbar_BatchExport>
+  <RimRim_Toolbar_Screenshot>Screenshot</RimRim_Toolbar_Screenshot>
+  <RimRim_Toolbar_HotReload>Hot-Reload</RimRim_Toolbar_HotReload>
+  <RimRim_Toolbar_Share>Share</RimRim_Toolbar_Share>
+
+  <!-- Inspector -->
+  <RimRim_Inspector_Position>Position</RimRim_Inspector_Position>
+  <RimRim_Inspector_Scale>Scale</RimRim_Inspector_Scale>
+  <RimRim_Inspector_Rotation>Rotation</RimRim_Inspector_Rotation>
+  <RimRim_Inspector_Color>Color</RimRim_Inspector_Color>
+  <RimRim_Inspector_Opacity>Opacity</RimRim_Inspector_Opacity>
+  <RimRim_Inspector_DrawSize>Draw Size</RimRim_Inspector_DrawSize>
+  <RimRim_Inspector_Offset>Offset</RimRim_Inspector_Offset>
+
+  <!-- Layer -->
+  <RimRim_Layer_Add>Add Layer</RimRim_Layer_Add>
+  <RimRim_Layer_Delete>Delete Layer</RimRim_Layer_Delete>
+  <RimRim_Layer_MoveUp>Move Up</RimRim_Layer_MoveUp>
+  <RimRim_Layer_MoveDown>Move Down</RimRim_Layer_MoveDown>
+  <RimRim_Layer_Texture>Texture Path</RimRim_Layer_Texture>
+  <RimRim_Layer_Visible>Visible</RimRim_Layer_Visible>
+  <RimRim_Layer_Locked>Locked</RimRim_Layer_Locked>
+  <RimRim_Layer_DropHint>Drop PNG here</RimRim_Layer_DropHint>
+
+  <!-- Animation -->
+  <RimRim_Anim_Play>Play</RimRim_Anim_Play>
+  <RimRim_Anim_Pause>Pause</RimRim_Anim_Pause>
+  <RimRim_Anim_Stop>Stop</RimRim_Anim_Stop>
+  <RimRim_Anim_FPS>FPS</RimRim_Anim_FPS>
+  <RimRim_Anim_NoFrames>No animation frames found</RimRim_Anim_NoFrames>
+  <RimRim_Anim_FrameCount>{0} frames</RimRim_Anim_FrameCount>
+
+  <!-- Presets -->
+  <RimRim_Preset_Save>Save Preset</RimRim_Preset_Save>
+  <RimRim_Preset_Load>Load Preset</RimRim_Preset_Load>
+  <RimRim_Preset_Delete>Delete Preset</RimRim_Preset_Delete>
+  <RimRim_Preset_Name>Preset Name</RimRim_Preset_Name>
+  <RimRim_Preset_Saved>Preset saved: {0}</RimRim_Preset_Saved>
+  <RimRim_Preset_Loaded>Preset loaded: {0}</RimRim_Preset_Loaded>
+  <RimRim_Preset_NoPresets>No presets saved yet</RimRim_Preset_NoPresets>
+
+  <!-- History -->
+  <RimRim_History_Title>Version History</RimRim_History_Title>
+  <RimRim_History_Restore>Restore</RimRim_History_Restore>
+  <RimRim_History_Empty>No history yet</RimRim_History_Empty>
+  <RimRim_History_Snapshot>Snapshot {0}</RimRim_History_Snapshot>
+
+  <!-- Export -->
+  <RimRim_Export_Title>Export</RimRim_Export_Title>
+  <RimRim_Export_Path>Output Path</RimRim_Export_Path>
+  <RimRim_Export_IncludeTextures>Include Textures</RimRim_Export_IncludeTextures>
+  <RimRim_Export_OverwriteExisting>Overwrite Existing</RimRim_Export_OverwriteExisting>
+  <RimRim_Export_Done>Export complete: {0}</RimRim_Export_Done>
+
+  <!-- Errors -->
+  <RimRim_Error_TextureNotFound>Texture not found: {0}</RimRim_Error_TextureNotFound>
+  <RimRim_Error_ExportFailed>Export failed: {0}</RimRim_Error_ExportFailed>
+  <RimRim_Error_PresetLoadFailed>Could not load preset: {0}</RimRim_Error_PresetLoadFailed>
+  <RimRim_Error_HotReloadFailed>Hot-reload failed: {0}</RimRim_Error_HotReloadFailed>
+  <RimRim_Error_NoDefLoaded>No def loaded — select a ThingDef first</RimRim_Error_NoDefLoaded>
+
+  <!-- Collision -->
+  <RimRim_Collision_Show>Show Collision</RimRim_Collision_Show>
+  <RimRim_Collision_Size>Collision Size</RimRim_Collision_Size>
+
+  <!-- Share -->
+  <RimRim_Share_Title>Share Mod</RimRim_Share_Title>
+  <RimRim_Share_PackageName>Package Name</RimRim_Share_PackageName>
+  <RimRim_Share_CreateZip>Create ZIP</RimRim_Share_CreateZip>
+  <RimRim_Share_Done>Package created: {0}</RimRim_Share_Done>
+
+  <!-- Tutorial -->
+  <RimRim_Tutorial_Title>Quick Start</RimRim_Tutorial_Title>
+  <RimRim_Tutorial_Body>1. Select a ThingDef from the left panel.\n2. Drag-and-drop PNG files onto layers to assign textures.\n3. Use the Inspector to tweak position, scale, rotation and color.\n4. Press F5 to hot-reload changes into the live game.\n5. Use File → Save Preset to store your work.\n6. Use File → Export XML to write patched Defs to disk.</RimRim_Tutorial_Body>
+</LanguageData>

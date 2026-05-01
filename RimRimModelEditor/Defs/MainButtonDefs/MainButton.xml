@@ -1,0 +1,10 @@
+<Defs>
+  <MainButtonDef>
+    <defName>RimRimModelEditorOpenEditor</defName>
+    <label>RimRim Editor</label>
+    <description>Open the RimRimModelEditor window.</description>
+    <order>99</order>
+    <iconPath>UI/Icons/Toolbar_Icon</iconPath>
+    <workerClass>D4egon.RimRimModelEditor.UI.MainButtonWorkerOpenRimRimEditor</workerClass>
+  </MainButtonDef>
+</Defs>

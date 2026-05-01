@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimRimModelEditor</name>
+  <author>D4egon</author>
+  <packageId>D4egon.RimRimModelEditor</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>This is the beginning of... A powerful in-game model/texture editor for modding.
+  I often found myself wondering how an item would look if placed slightly different, or what motes or flecks look like if they have different settings.
+  
+  This mod does that - live. You can literally edit any texture while in the game in this "IDE". And you can export the settings as XML.
+  
+  along with a whole lot of other things, some work and some dont. That's why I call it ALPHA. 
+  
+  Any and all feedback is more than welcome. I hope this to be a tribute to the amazing workshop community and the RimWorld community.
+  
+  We have had so much fun over the years.
+  
+  Full list of current features is available in the readme.md and on the steam workshop page.
+ 
+  </description>
+</ModMetaData>
