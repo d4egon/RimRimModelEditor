@@ -185,4 +185,4 @@ Any and all feedback is welcome! This editor is a tribute to the amazing RimWorl
 - Connect on Discord or the community page
 - Check the Steam Workshop page for additional resources
 
-Thank you for your support! 🎉
+Thank you for your support!
